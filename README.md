@@ -4,7 +4,7 @@ This project analyzes Vrinda Store’s annual sales data to uncover **customer p
 
 ---
 
-<img src="vrinda-store-annual-report-analysis/vrinda-store-annual-report-analysis/visuals/dashboard.png" alt="Sales and Profit Dashboard" style="width:100%; height:100%; object-fit: cover; border: 2px solid #cccccc; margin-bottom:20px;">
+<img src="vrinda-store-annual-report-analysis/visuals/dashboard.png" alt="Sales and Profit Dashboard" style="width:100%; height:100%; object-fit: cover; border: 2px solid #cccccc; margin-bottom:20px;">
 
 
 ---
