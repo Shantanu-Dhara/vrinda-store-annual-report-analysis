@@ -3,8 +3,11 @@
 This project analyzes Vrinda Store’s annual sales data to uncover **customer purchasing patterns**, **channel performance**, and **regional demand trends**. The goal is to provide **data-driven insights** that help enhance marketing strategy, improve sales efficiency, and identify growth opportunities.
 
 ---
+
 <img src="vrinda-store-annual-report-analysis/vrinda-store-annual-report-analysis/visuals
 /dashboard.png" alt="Sales and Profit Dashboard" style="width:100%; height:100%; object-fit: cover; border: 2px solid #cccccc; margin-bottom:20px;">
+
+---
 
 ## 📂 Dataset Overview
 
